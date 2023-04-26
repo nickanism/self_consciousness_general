@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T18:38:21.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" version="21.2.2" etag="MlVvjHKrMOWjqhnMQ_Ad" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T22:46:19.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="vOVgbLHC4bkCDKg2lc19" version="21.2.2" type="github">
   <diagram name="Page-1" id="i1mPH8Jzd_vn6bi_4Det">
-    <mxGraphModel>
+    <mxGraphModel dx="410" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w6-Nh_6ZVQhDjkrKSRNA-1" value="User enters emotions, thoughts, behaviors, physical symptoms." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w6-Nh_6ZVQhDjkrKSRNA-2" value="Situation triggers certain emotions, thoughts, or behaviors. User notices." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w6-Nh_6ZVQhDjkrKSRNA-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6-Nh_6ZVQhDjkrKSRNA-2" target="w6-Nh_6ZVQhDjkrKSRNA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
