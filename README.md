@@ -23,7 +23,7 @@ We strive, collectively, to make this world a better world, at least in our hope
 The semantics of "a better world" are widely constrained to human world context, focusing on material abundance followed by mental well-being.
 The cause of our strive towards material gain and hoarding comes form our own consciousness, and consciousness only, albeit it being traced back to our lower-level neurobiological states and phenomena.
 Striving towards 'power' and 'recognition' cannot be ignored, as the underlying principles of which depend on more primal functions of animal instincts, may help or harm in non-trivial parts of our awareness.
-Skpping ahead, my conclusion regarding this matter of reaching a more desirable states of affairs is that self-awareness, the constant one at that, may be crucial.
+Skpping ahead, my conclusion regarding this matter of reaching more desirable states of affairs is that self-awareness, the constant one at that, may be crucial.
 It is my utmost interest to comprehend what this constant self-awareness is.
 The world, at least what we call 'reality', whether it being strictly material or experiential, is that of chaotic nature. 
 I feel it my duty to help myself and others make better sense of "what is."
