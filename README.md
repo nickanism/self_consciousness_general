@@ -3,7 +3,7 @@ general ideas for self-consciousness project
 
 Web & Mobile application (iOS, Android, web)
 
-Purposes
+# Purposes
 - Always observing one's mind.
 - Keep track of thoughts, emotions, desires, intentions, fears, hostilities (towards 'xyz' target or person), 
 behaviors, biological symptoms (such as yawning, scratching, slouching, etc.)
@@ -17,7 +17,7 @@ behaviors, biological symptoms (such as yawning, scratching, slouching, etc.)
 
 
 
-# Notes 1
+# Notes
 
 We strive, collectively, to make this world a better world, at least in our hopes. 
 The semantics of "a better world" are widely constrained to human world context, focusing on material abundance followed by mental well-being.
